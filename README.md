@@ -232,13 +232,40 @@ Aerofit-Customer-Intelligence-Dashboard/
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Data Overview](https://via.placeholder.com/800x400?text=Data+Overview+Dashboard)
+<img width="2867" height="1461" alt="image" src="https://github.com/user-attachments/assets/15551dad-38cd-43a4-8021-1e96d19ecd2e" />
+<img width="2862" height="1407" alt="image" src="https://github.com/user-attachments/assets/e6050a17-605c-40e2-9ea8-a21e69fdd821" />
+<img width="2810" height="1390" alt="image" src="https://github.com/user-attachments/assets/bb4c6730-9f5f-47b3-b2dd-1953d2cd923f" />
 
 ### Interactive EDA
-![EDA Analysis](https://via.placeholder.com/800x400?text=Interactive+EDA)
+<img width="2501" height="1208" alt="image" src="https://github.com/user-attachments/assets/04f88194-d081-401a-a3cb-06b266206605" />
+<img width="2507" height="1124" alt="image" src="https://github.com/user-attachments/assets/ecf5a00d-2fa7-4bb8-98a7-216a85a50d70" />
+<img width="2493" height="1384" alt="image" src="https://github.com/user-attachments/assets/03b3cc25-d772-4e2c-a6c8-843b04e06f29" />
+<img width="2460" height="1402" alt="image" src="https://github.com/user-attachments/assets/d434254d-2850-412f-b32c-5911d7d10cac" />
+<img width="2438" height="957" alt="image" src="https://github.com/user-attachments/assets/002f0cc0-6d7e-4e52-a128-af75ce26978d" />
+<img width="2492" height="1294" alt="image" src="https://github.com/user-attachments/assets/996b53b4-98ac-4be0-b2ed-166949470a79" />
 
 ### Probability Analysis
-![Probability](https://via.placeholder.com/800x400?text=Probability+Analysis)
+<img width="2507" height="1244" alt="image" src="https://github.com/user-attachments/assets/359839f1-fc2a-41d5-8c46-461959daaa17" />
+<img width="2487" height="1033" alt="image" src="https://github.com/user-attachments/assets/96994946-f8f5-4781-960b-46cd1362b471" />
+<img width="2490" height="991" alt="image" src="https://github.com/user-attachments/assets/697adad0-6dbb-4904-8fdc-eadedeaa35fa" />
+<img width="2500" height="990" alt="image" src="https://github.com/user-attachments/assets/570ec474-4ea0-440c-bec9-593e87179735" />
+
+### Insight & Recommendation
+<img width="2510" height="1358" alt="image" src="https://github.com/user-attachments/assets/32409b43-b326-476d-b710-43d2c7fff26a" />
+<img width="2522" height="1174" alt="image" src="https://github.com/user-attachments/assets/03136a50-20a4-4847-9717-a0438dd4936d" />
+
+### Complete Analysis 
+<img width="2513" height="1305" alt="image" src="https://github.com/user-attachments/assets/1799b651-dc8d-4597-8009-92b77c4ebf91" />
+<img width="2467" height="1334" alt="image" src="https://github.com/user-attachments/assets/0ba3525d-f4a5-4708-8abd-90303fca9952" />
+<img width="2478" height="1341" alt="image" src="https://github.com/user-attachments/assets/8765538b-3b43-40c9-8e2a-b987de776df5" />
+<img width="2468" height="1343" alt="image" src="https://github.com/user-attachments/assets/743619fe-b525-454c-a0ad-34fcf3ee4b33" />
+<img width="2516" height="1383" alt="image" src="https://github.com/user-attachments/assets/4a166d6f-5af1-41ca-8531-7038b518de04" />
+<img width="2428" height="1409" alt="image" src="https://github.com/user-attachments/assets/7b5308d4-7c07-4865-ac0b-bd56804489cb" />
+<img width="2413" height="1430" alt="image" src="https://github.com/user-attachments/assets/d095a07c-1b1d-4069-8f55-b505ed0b5a67" />
+<img width="2499" height="1342" alt="image" src="https://github.com/user-attachments/assets/492b802a-58ea-4e6a-b1d0-26b1e677b649" />
+### API Logs 
+<img width="2534" height="1402" alt="image" src="https://github.com/user-attachments/assets/ff341d0a-80ff-4dee-960d-13e09aa8d207" />
+<img width="2489" height="1378" alt="image" src="https://github.com/user-attachments/assets/97fcb229-f4ac-4bf7-b410-fa323aa8120b" />
 
 ---
 
