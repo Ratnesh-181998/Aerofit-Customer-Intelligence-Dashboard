@@ -35,6 +35,13 @@
 
 Identify the characteristics of the target audience for each type of treadmill offered by Aerofit to provide better recommendations to new customers and optimize marketing strategies.
 
+---
+
+## 🎬 Demo
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/
+
+---
 ### Product Portfolio
 
 - **KP281** - Entry-level treadmill ($1,500)
