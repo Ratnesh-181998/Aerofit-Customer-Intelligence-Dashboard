@@ -267,6 +267,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@Ratnesh-181998](https://github.com/Ratnesh-181998)
 - LinkedIn: [Ratnesh Singh](https://www.linkedin.com/in/ratnesh-singh)
 - Email: rattudacsit2021gate@gmail.com
+---
+### Project Links
+- 🌐 Live Demo: [Streamlit](https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/)
+- 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/Aerofit-Customer-Intelligence-Dashboard/wiki)
+- 🐛 Issue Tracker: [GitHub Issues](https://github.com/Ratnesh-181998/Aerofit-Customer-Intelligence-Dashboard/issues)
 
 ---
 
